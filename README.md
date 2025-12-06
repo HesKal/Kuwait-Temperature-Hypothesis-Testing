@@ -28,8 +28,8 @@ Initial analysis of the sample data (n=34) revealed:
 - **Standard Deviation:** 19.06°F
 - **Distribution:** The data exhibited a left-skewed, bimodal distribution.
 
-![Boxplot and Histogram](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/boxplot.png](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/Histogram.png))
-
+![Histogram](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/Histogram.png )
+![Boxplot](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/BoxPlot.png)
 ### 3. Hypothesis Testing (My Core Contribution)
 This was the central part of my contribution. I formulated and executed a one-tailed Z-test to validate our research question.
 
