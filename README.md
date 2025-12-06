@@ -6,16 +6,6 @@ This project was completed as part of the "Statistics and Probability (CIS 2003)
 
 ---
 
-## 📄 Data Source
-
-The dataset used for this analysis was sourced from **Kaggle**.
-
-- **Original Publisher:** University of Dayton
-- **Dataset Title:** 
-- **Kaggle Link:** 
-
----
-
 ## 🎯 Research Problem & Objective
 
 The research aims to answer a critical question: **Is there statistical evidence to suggest that the average temperature in Kuwait is significantly higher than 90°F?**
@@ -38,7 +28,7 @@ Initial analysis of the sample data (n=34) revealed:
 - **Standard Deviation:** 19.06°F
 - **Distribution:** The data exhibited a left-skewed, bimodal distribution.
 
-![Boxplot and Histogram](URL_to_your_boxplot_histogram_image.png)
+![Boxplot and Histogram](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/boxplot.png](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/Histogram.png))
 
 ### 3. Hypothesis Testing (My Core Contribution)
 This was the central part of my contribution. I formulated and executed a one-tailed Z-test to validate our research question.
@@ -53,7 +43,7 @@ This was the central part of my contribution. I formulated and executed a one-ta
 
 The resulting Z-score was **-2.79**.
 
-![Python Visualization of Z-test](URL_to_your_python_visualization_image.png)
+![Python Visualization of Z-test](https://github.com/HesKal/Kuwait-Temperature-Hypothesis-Testing/blob/main/python_visualization.png)
 
 ---
 
@@ -75,6 +65,13 @@ This project was a deep dive into the practical application of statistical theor
 - Using Python and its libraries to visualize statistical concepts, bridging the gap between theory and practical application.
 
 
+---
+
+## 💻 Technical Implementation
+
+The complete Python code for generating the descriptive statistics plots and visualizing the hypothesis test can be found in the Jupyter Notebook in this repository.
+
+➡️ **[View the full analysis in the Jupyter Notebook](./Analysis.ipynb)**
 
 
 
